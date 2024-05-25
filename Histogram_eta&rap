@@ -1,0 +1,13 @@
+\begin{PLOT}{/myanalysis_check/eta}
+    Title=Charged Particle Multiplicity (Pseudorapidity)
+    XLabel=$\eta$
+    YLabel=$1/N dn/d\eta$
+    LogY=0
+\end{PLOT}
+
+\begin{PLOT}{/myanalysis_check/rap}
+    Title=Charged Particle Multiplicity (Rapidity)
+    XLabel=$y$
+    YLabel=$1/N dn/dy$
+    LogY=0
+\end{PLOT}
